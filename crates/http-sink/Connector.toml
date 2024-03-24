@@ -1,10 +1,10 @@
 [package]
-name = "http-sink"
-group = "infinyon"
-version = "0.2.6"
+name = "http-sink-fork"
+group = "day-os"
+version = "0.1.1"
 apiVersion = "0.1.0"
 fluvio = "0.10.16"
-description = "HTTP sink connector reads records from data streaming and generates an HTTP request"
+description = "HTTP sink connector reads records from data streaming and generates an HTTP request, a fork of fluvio's official HTTP sink"
 license = "Apache-2.0"
 visibility = "public"
 
@@ -12,4 +12,4 @@ visibility = "public"
 dest = true 
 
 [deployment]
-binary = "http-sink"
+binary = "http-sink-fork"
