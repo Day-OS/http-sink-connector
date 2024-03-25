@@ -1,7 +1,7 @@
 [package]
 name = "http-sink-fork"
 group = "day-os"
-version = "0.1.2"
+version = "0.1.3"
 apiVersion = "0.1.0"
 fluvio = "0.10.16"
 description = "HTTP sink connector reads records from data streaming and generates an HTTP request, a fork of fluvio's official HTTP sink"
