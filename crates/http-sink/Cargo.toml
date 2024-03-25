@@ -1,5 +1,5 @@
 [package]
-name = "http-sink"
+name = "http-sink-fork"
 version = "0.2.6"
 authors = ["Fluvio Contributors <team@fluvio.io>"]
 description = "Connector that reads data from a topic and sends to external HTTP webhook"

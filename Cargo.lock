@@ -1528,7 +1528,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "http-sink"
+name = "http-sink-fork"
 version = "0.2.6"
 dependencies = [
  "anyhow",
